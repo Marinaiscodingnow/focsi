@@ -64,3 +64,10 @@ body{
   max-width: 600px;
   max-height: 800px;
 }
+
+.list-group-item{
+  background-color: #805833;
+  font-size: 45px;
+  font-family: 'Indie Flower';
+  border-color: #805833;
+}
